@@ -41,9 +41,10 @@ sudo apt-get update
 # Install the recommended package.
 sudo apt-get install linux-image-extra-$(uname -r)
 
-# +---------+
-# | Install |
-# +---------+
+
+# +----------------+
+# | Install Docker |
+# +----------------+
 
 # Update your APT package index.
 sudo apt-get update
